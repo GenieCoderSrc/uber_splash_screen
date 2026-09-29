@@ -1,9 +1,0 @@
-name: uber_splash_screen
-description: "Uber Splash Screen"
-publish_to: 'none'
-version: 1.0.0
-
-environment:
-  sdk: \x27>=3.6.0 <4.0.0\x27
-  resolution: workspace
-  
